@@ -1,0 +1,7 @@
+[29-Dec-2017 02:44:06 UTC] WPMU DEV Upgrader error: UPG.09 - The plugin is at the latest version..
+[16-Jan-2018 08:12:21 UTC] [WPMUDEV API Error] 4.4 | cURL error 28: Operation timed out after 15001 milliseconds with 0 bytes received ((unknown URL) [500]) 
+[29-Jan-2018 00:00:25 UTC] PHP Fatal error:  Cannot use object of type WP_Error as array in /home/traceoil/public_html/wp-content/plugins/wp-defender/app/module/audit/controller/main.php on line 308
+[12-Feb-2018 00:00:29 UTC] PHP Fatal error:  Cannot use object of type WP_Error as array in /home/traceoil/public_html/wp-content/plugins/wp-defender/app/module/audit/controller/main.php on line 308
+[16-Feb-2018 11:05:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/traceoil/public_html/wp-includes/admin-bar.php on line 327
+[19-Mar-2018 00:00:37 UTC] PHP Fatal error:  Cannot use object of type WP_Error as array in /home/traceoil/public_html/wp-content/plugins/wp-defender/app/module/audit/controller/main.php on line 310
+[18-Apr-2018 20:11:13 UTC] [WPMUDEV API Error] 4.4 | cURL error 28: Operation timed out after 15001 milliseconds with 0 bytes received ((unknown URL) [500]) 
